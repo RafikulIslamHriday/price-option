@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "features": [
+        "Access to cardio equipment",
+        "Use of strength training machines",
+        "Locker room access",
+        "24/7 gym access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 49.99,
+      "features": [
+        "Access to all gym equipment",
+        "Unlimited group fitness classes",
+        "Personal trainer sessions",
+        "Locker and towel service",
+        "Sauna and steam room access",
+        "Nutritional consultation"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Student Membership",
+      "price": 19.99,
+      "features": [
+        "Access to cardio equipment",
+        "Use of strength training machines",
+        "Locker room access",
+        "Valid student ID required",
+        "Discounted group fitness classes"
+      ]
+    }
+    
+  ]
+  
